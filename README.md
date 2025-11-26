@@ -6,7 +6,7 @@ Dự án xây dựng mô hình xe tích hợp hệ thống hỗ trợ lái xe n�
 
 * **Raspberry Pi 5**: Xử lý ảnh, chạy mô hình YOLOv11n và các thuật toán điều khiển.
 * **ESP32**: Điều khiển động cơ, servo qua mạch cầu H.
-* **Cảm biến**: HC-SR04 đo khoảng cách, cảm biến Hall đo vận tốc.
+* **Cảm biến**: HC-SR04 đo khoảng cách.
 * **Camera**: Cung cấp dữ liệu hình ảnh thời gian thực cho Pi.
 
 ## 2. Chức năng chính
@@ -18,7 +18,7 @@ Dự án xây dựng mô hình xe tích hợp hệ thống hỗ trợ lái xe n�
 
 ## 3. Hiệu năng
 
-Hệ thống hoạt động ổn định trong các thử nghiệm cơ bản, xử lý tốt các tình huống đơn giản. Tuy nhiên, hiệu quả giảm khi môi trường thay đổi mạnh về ánh sáng hoặc khung cảnh phức tạp.
+Hệ thống hoạt động ổn định trong các thử nghiệm cơ bản, xử lý tốt các tình huống đơn giản.
 
 ## 4. Mục tiêu học thuật
 
